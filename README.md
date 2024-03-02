@@ -1,16 +1,30 @@
-# note_pad
+Flutter Movies
+Movies app 🎥 which is developed using Flutter. It follows bloc architecture pattern and Inherited Widget. This project was made for learning the bloc architecture pattern and Inherited Widget.
 
-A new Flutter project.
+Screenshot
 
-## Getting Started
+![image](https://github.com/fezhull/Flutter-Movie-UI/assets/36967859/41f24560-b5da-4d74-9bb6-58e8bb4f7138)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+![image](https://github.com/fezhull/Flutter-Movie-UI/assets/36967859/9b9403f2-1b83-427b-b6ad-f1d9ccbf68f1)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+Getting Started
+
+
+For help getting started with Flutter, view online documentation.
+
+1. Setup Flutter
+
+   
+3. Clone the repo
+   
+$ git clone https://github.com/fezhull/Flutter-Movies-app.git
+
+$ cd Flutter-Movies/
+
+4. Run the app
+   
+$ flutter run
+
